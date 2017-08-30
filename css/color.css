@@ -1,0 +1,30 @@
+/*Primary color #....*/
+a:focus,
+a:hover,
+.color-text{
+	color: #0275d8;
+}
+
+.color-bg{
+	background-color: #0275d8;
+}
+ input[type="submit"],
+ input[type="reset"]
+{
+	border-color: #0275d8;
+}
+
+
+/*Secondary Color*/
+{
+	color: #f76e2e;
+}
+
+{
+	background-color: #f76e2e;
+}
+
+{
+	border-color: #f76e2e;
+}
+
